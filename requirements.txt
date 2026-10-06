@@ -1,0 +1,5 @@
+# OmniDVR Forensic Suite Requirements
+# Developed by GoatSecurity (GitHub: GoatSecurity)
+# 100% Free & Open-Source
+
+PyQt6>=6.5.0
